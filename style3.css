@@ -1,0 +1,16 @@
+body{
+    background-color:lightblue;
+    font-size: large;
+    text-align: center;
+    color:black;
+} 
+
+div{
+    padding: 6px;
+    margin: 6px;
+    background-color: lightblue;
+}
+
+.special{
+    background-color: whitesmoke;
+}

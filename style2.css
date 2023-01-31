@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+    font-size: large;
+    text-align: center;
+    color:whitesmoke;
+} 
+
+div{
+    padding: 6px;
+    margin: 6px;
+    background-color: black;
+}
+
+.special{
+    background-color: whitesmoke;
+    color:black;
+}

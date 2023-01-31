@@ -1,0 +1,16 @@
+body{
+    background-color:khaki;
+    font-size: large;
+    text-align: center;
+    color:black;
+} 
+
+div{
+    padding: 6px;
+    margin: 6px;
+    background-color: khaki;
+}
+
+.special{
+    background-color: whitesmoke;
+}
